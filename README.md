@@ -1,3 +1,3 @@
 # Extent Report Framework
 
-#### This is the basic framework with Extent Report, here you can run Test Cases using by Listners and each time unique report(with time stamp) will be generated.
+#### This is the basic framework with Extent Report, while executing the Test Suite, Report(with time stamp) will be generated via Listners.
